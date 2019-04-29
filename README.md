@@ -1,11 +1,13 @@
 <h1>API PROJECT</h1>
 <h2>Super Heroes Universe</h2>
 
-<h3>Things to consider befor using</h3>
+<img src="marvel-universe.jpg">
 
-This project is using a API created by <a href="https://superheroapi.com/index.html">Superhero API</a>. This API work with a generated token of Facebook, so for the correct use of the database we create a Proxy Connection.
+<h3>Things to consider before using</h3>
 
-For this reason the result after clicked the button "Let's Go!" it can be a delay of 2 or 3 seconds.
+This project is using a API created by <a href="https://superheroapi.com/index.html">Superhero API</a>. This API works with a generated token of Facebook, so for the correct use of the database we create a Proxy Connection.
+
+For this reason, the result after clicked the button "Let's Go!" it can be a delay of 2 or 3 seconds.
 
 <h3>Technologies used</h3>
 
