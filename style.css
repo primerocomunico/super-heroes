@@ -1,0 +1,42 @@
+.fit-image {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+#superHeroCard {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+  .fit-image, #superHeroCard {
+    margin-bottom: 20px;
+  }
+  .contenido-footer {
+    display:block;
+    text-align: center;
+  }
+}
+
+.description {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.hero-name {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+
+.header {
+  font-family: 'Wendy One', sans-serif;
+  text-align: center;
+}
+
+.fab {
+  font-size: 20px;
+}
+
+.contenido-footer {
+
+}
